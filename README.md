@@ -1,6 +1,6 @@
 # memer
 
-A new Flutter project.
+get random memes from the internet and view them
 
 ## Getting Started
 
