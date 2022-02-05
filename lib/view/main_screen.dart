@@ -5,6 +5,10 @@ class MainScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return const Scaffold(
+      appBar: null,
+      floatingActionButton: null,
+      body: null,
+    );
   }
 }
