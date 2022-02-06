@@ -8,7 +8,9 @@ class MainScreen extends StatelessWidget {
     return const Scaffold(
       appBar: null,
       floatingActionButton: null,
-      body: null,
+      body: Center(
+        child: Text('Empty Text'),
+      ),
     );
   }
 }
